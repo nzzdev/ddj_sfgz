@@ -1,0 +1,341 @@
+date,altersklasse_covid19,entries,sumTotal,vaccine,geoRegion,type,type_variant,data_completeness,version
+202104,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,20 - 29,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,30 - 39,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,50 - 59,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,60 - 69,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,70 - 79,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,80+,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202104,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,20 - 29,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,30 - 39,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,50 - 59,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,60 - 69,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,70 - 79,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,80+,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202105,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,20 - 29,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,30 - 39,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,50 - 59,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,60 - 69,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,70 - 79,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,80+,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202106,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,20 - 29,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,30 - 39,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,50 - 59,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,60 - 69,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,70 - 79,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,80+,1,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202107,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,20 - 29,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,30 - 39,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,50 - 59,1,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,60 - 69,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,70 - 79,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,80+,3,4,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202108,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,20 - 29,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,30 - 39,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,50 - 59,0,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,60 - 69,1,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,70 - 79,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,80+,0,4,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202109,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,20 - 29,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,30 - 39,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,50 - 59,1,2,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,60 - 69,2,3,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,70 - 79,1,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,80+,1,5,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202110,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,20 - 29,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,30 - 39,1,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,50 - 59,1,3,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,60 - 69,0,3,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,70 - 79,6,7,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,80+,7,12,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202111,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,20 - 29,1,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,30 - 39,0,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,40 - 49,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,50 - 59,2,5,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,60 - 69,1,4,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,70 - 79,2,9,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,80+,6,18,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202112,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,20 - 29,0,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,30 - 39,1,2,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,40 - 49,1,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,50 - 59,2,7,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,60 - 69,1,5,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,70 - 79,2,11,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,80+,15,33,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202113,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,20 - 29,0,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,30 - 39,3,5,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,40 - 49,4,5,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,50 - 59,3,10,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,60 - 69,1,6,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,70 - 79,4,15,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,80+,11,44,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202114,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,20 - 29,0,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,30 - 39,2,7,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,40 - 49,2,7,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,50 - 59,4,14,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,60 - 69,2,8,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,70 - 79,2,17,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,80+,12,56,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202115,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,20 - 29,0,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,30 - 39,2,9,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,40 - 49,1,8,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,50 - 59,1,15,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,60 - 69,2,10,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,70 - 79,2,19,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,80+,16,72,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202116,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,20 - 29,0,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,30 - 39,3,12,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,40 - 49,3,11,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,50 - 59,1,16,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,60 - 69,3,13,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,70 - 79,4,23,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,80+,13,85,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202117,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,20 - 29,2,3,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,30 - 39,2,14,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,40 - 49,3,14,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,50 - 59,1,17,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,60 - 69,1,14,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,70 - 79,6,29,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,80+,4,89,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202118,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,20 - 29,1,4,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,30 - 39,1,15,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,40 - 49,4,18,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,50 - 59,6,23,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,60 - 69,0,14,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,70 - 79,3,32,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,80+,6,95,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202119,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,20 - 29,1,5,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,30 - 39,4,19,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,40 - 49,6,24,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,50 - 59,0,23,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,60 - 69,3,17,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,70 - 79,2,34,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,80+,6,101,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202120,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,20 - 29,2,7,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,30 - 39,3,22,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,40 - 49,2,26,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,50 - 59,1,24,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,60 - 69,0,17,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,70 - 79,3,37,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,80+,11,112,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202121,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,20 - 29,0,7,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,30 - 39,1,23,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,40 - 49,0,26,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,50 - 59,2,26,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,60 - 69,4,21,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,70 - 79,4,41,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,80+,7,119,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202122,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,20 - 29,1,8,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,30 - 39,1,24,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,40 - 49,2,28,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,50 - 59,3,29,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,60 - 69,0,21,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,70 - 79,1,42,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,80+,4,123,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202123,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,20 - 29,0,8,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,30 - 39,0,24,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,40 - 49,1,29,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,50 - 59,3,32,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,60 - 69,2,23,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,70 - 79,1,43,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,80+,1,124,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202124,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,20 - 29,0,8,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,30 - 39,1,25,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,40 - 49,0,29,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,50 - 59,1,33,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,60 - 69,3,26,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,70 - 79,0,43,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,80+,0,124,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202125,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,10 - 19,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,20 - 29,0,8,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,30 - 39,0,25,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,40 - 49,1,30,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,50 - 59,0,33,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,60 - 69,2,28,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,70 - 79,0,43,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,80+,0,124,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202126,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,10 - 19,1,1,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,20 - 29,4,12,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,30 - 39,4,29,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,40 - 49,2,32,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,50 - 59,7,40,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,60 - 69,4,32,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,70 - 79,1,44,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,80+,1,125,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202127,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,10 - 19,4,5,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,20 - 29,12,24,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,30 - 39,5,34,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,40 - 49,2,34,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,50 - 59,8,48,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,60 - 69,4,36,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,70 - 79,4,48,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,80+,3,128,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202128,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,10 - 19,3,8,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,20 - 29,18,42,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,30 - 39,12,46,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,40 - 49,8,42,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,50 - 59,11,59,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,60 - 69,4,40,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,70 - 79,11,59,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,80+,5,133,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202129,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,10 - 19,6,14,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,20 - 29,26,68,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,30 - 39,14,60,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,40 - 49,12,54,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,50 - 59,13,72,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,60 - 69,9,49,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,70 - 79,10,69,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,80+,8,141,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202130,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,10 - 19,6,20,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,20 - 29,29,97,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,30 - 39,24,84,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,40 - 49,23,77,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,50 - 59,23,95,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,60 - 69,15,64,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,70 - 79,18,87,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,80+,13,154,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202131,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,10 - 19,10,30,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,20 - 29,36,133,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,30 - 39,44,128,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,40 - 49,46,123,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,50 - 59,40,135,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,60 - 69,32,96,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,70 - 79,17,104,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,80+,18,172,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202132,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,10 - 19,4,34,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,20 - 29,46,179,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,30 - 39,51,179,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,40 - 49,50,173,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,50 - 59,57,192,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,60 - 69,48,144,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,70 - 79,16,120,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,80+,23,195,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202133,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,10 - 19,5,39,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,20 - 29,33,212,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,30 - 39,38,217,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,40 - 49,51,224,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,50 - 59,53,245,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,60 - 69,32,176,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,70 - 79,19,139,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,80+,26,221,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202134,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,10 - 19,3,42,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,20 - 29,22,234,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,30 - 39,31,248,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,40 - 49,58,282,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,50 - 59,25,270,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,60 - 69,33,209,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,70 - 79,19,158,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,80+,30,251,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202135,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,10 - 19,6,48,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,20 - 29,18,252,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,30 - 39,33,281,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,40 - 49,53,335,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,50 - 59,20,290,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,60 - 69,32,241,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,70 - 79,22,180,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,80+,30,281,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202136,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,0 - 9,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,10 - 19,2,50,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,20 - 29,10,262,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,30 - 39,23,304,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,40 - 49,27,362,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,50 - 59,21,311,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,60 - 69,14,255,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,70 - 79,27,207,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,80+,19,300,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
+202137,Unbekannt,0,0,all,CHFL,COVID19Cases,altersklasse_covid19,limited,2021-09-23_07-57-56
